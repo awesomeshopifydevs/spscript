@@ -1,4 +1,3 @@
-console.log("Thank for the business with us");
 var loadJS = function (url, implementationCode, location) {
   //url is URL of external file, implementationCode is the code
   //to be called from the file, location is the location to
